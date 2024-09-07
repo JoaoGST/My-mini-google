@@ -1,4 +1,4 @@
-## Atletas do Brasil: Seu Google Pessoal de Esporte! 🇧🇷
+## Atletas do Brasil: Seu Google Pessoal de Esporte! 🇧🇷 - Imersão Dev com Google Gemini
 O que é isso?
 
 Já imaginou ter um buscador só para descobrir tudo sobre seus atletas brasileiros favoritos? Com o Atletas do Brasil, você pode!  É como ter uma enciclopédia de esportes bem legal e fácil de usar.
